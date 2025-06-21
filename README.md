@@ -10,40 +10,50 @@ Power BI Dashboard for Shopsphere-Analytics Project
 
 ---
 
+## 📑 Table of Contents
+
+- [📌 Project Summary](#-project-summary)
+- [🔍 Key Insights](#-key-insights)
+- [🧠 Skills & Tools Used](#-skills--tools-used)
+- [🧩 Project Learnings](#-project-learnings)
+- [📂 Project Files](#-project-files)
+
+---
+
 ## 📌 Project Summary:
 
-A comprehensive Power BI Dashboard built to visualize and analyze the sales performance of an E-Commerce platform. This dashboard enables end users to filter regionally and track sales metrics using various slicers, graphs, and interactive visuals.
+A professional Power BI dashboard created to analyze over **1,500+ e-commerce transactions** across **500 unique orders**, enabling insight-driven decisions for business growth. Designed to help stakeholders explore region-wise sales, revenue trends, and category breakdown using interactive visuals.
 
 ---
 
 ## 🔍 Key Insights:
 
-- Tracked and analyzed online sales performance across time and categories.
-- Identified top-performing regions and product lines.
-- Enabled detailed breakdown using slicers for dynamic exploration.
+- Analyzed **1,500+ rows** of transactional data across **2 data tables**.
+- Identified top-selling regions, product lines, and high-revenue time periods.
+- Enabled drill-through analysis using slicers and filters for **user-customizable dashboards**.
+- Improved visibility on regional and product-based performance trends.
 
 ---
 
 ## 🧠 Skills & Tools Used:
 
-- **Power BI**
-- **Data Cleaning & Relationships**
-- **Interactive Visualizations**
-- **Bar chart, Pie chart, Donut chart, Clustered bar chart, Line chart, Area chart, Map, Slicers**
-- **Data Modelling (2 tables: 1500 rows & 500 rows)**
+- **Tool:** Microsoft Power BI  
+- **Techniques:** Data Cleaning, Data Modeling, Filtering, Visual Formatting  
+- **Data Volume:** 2 Tables (Details: 1500 rows, Orders: 500 rows)  
+- **Visuals Used:** Bar Chart, Pie Chart, Donut Chart, Clustered Bar Chart, Line Chart, Area Chart, Map, Slicers
 
 ---
 
 ## 🧩 Project Learnings:
 
-- Created interactive dashboard to track and analyze online sales data.
-- Used complex parameters to drill down and customized filters/slicers.
-- Built relationships between tables and performed basic transformations.
-- Enabled user-driven analytics through visuals and intuitive layout.
+- Built dynamic dashboards with user-driven filters for region, date, and category analysis.
+- Connected and transformed datasets to create **calculated columns and visual hierarchies** (without DAX).
+- Developed logical data relationships and cleaned inconsistent values using Power Query Editor.
+- Leveraged Power BI’s visualization toolkit to present actionable metrics clearly and intuitively.
 
 ---
 
 ## 📂 Project Files:
 
-- `My_PowerBI_Pro.pbix`: Power BI working file.
-- `Dashboard_Overview.png`: Final visual preview of the report.
+- `My_PowerBI_Pro.pbix` — Power BI working file.
+- `Dashboard_Overview.png` — Final dashboard screenshot.
