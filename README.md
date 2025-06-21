@@ -7,9 +7,3 @@ Power BI Dashboard for Shopsphere-Analytics Project
 <p align="center">
   <img src="Dashboard_Overview.png" width="1000"/>
 </p>
-
-### 🏙️ Regional Sales – DELHI
-![DELHI Region](Dashboard_(DELHI_region).png)
-
-### 🏞️ Regional Sales – U.P.
-![U.P. Region](Dashboard_(U.P_region).png)
